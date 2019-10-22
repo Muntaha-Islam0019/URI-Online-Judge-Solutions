@@ -1,7 +1,0 @@
-I:\URI\P1164\P1164\bin\Debug\P1164.exe.config
-I:\URI\P1164\P1164\bin\Debug\P1164.exe
-I:\URI\P1164\P1164\bin\Debug\P1164.pdb
-I:\URI\P1164\P1164\obj\Debug\P1164.csprojAssemblyReference.cache
-I:\URI\P1164\P1164\obj\Debug\P1164.csproj.CoreCompileInputs.cache
-I:\URI\P1164\P1164\obj\Debug\P1164.exe
-I:\URI\P1164\P1164\obj\Debug\P1164.pdb

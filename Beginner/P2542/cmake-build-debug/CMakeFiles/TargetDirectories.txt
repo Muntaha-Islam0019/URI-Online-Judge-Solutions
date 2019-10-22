@@ -1,3 +1,0 @@
-I:/URI/P2542/cmake-build-debug/CMakeFiles/P2542.dir
-I:/URI/P2542/cmake-build-debug/CMakeFiles/edit_cache.dir
-I:/URI/P2542/cmake-build-debug/CMakeFiles/rebuild_cache.dir
