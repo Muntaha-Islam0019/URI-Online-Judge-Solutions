@@ -1,0 +1,14 @@
+public class P2057 {
+    
+    public static void main (String [] args) {
+        
+        int s, t, f;
+        scanf("%d%d%d", &s, &t, &f);
+        
+        int sum = (s + t + f) % 24;
+        
+        if (sum < 0) sum = 24 + sum;
+        
+        printf("%d\n", sum);
+    }
+}
