@@ -1,0 +1,3 @@
+I:/Github/URI-Online-Judge-Solutions/Mathematics/P1161/cmake-build-debug/CMakeFiles/P1161.dir
+I:/Github/URI-Online-Judge-Solutions/Mathematics/P1161/cmake-build-debug/CMakeFiles/edit_cache.dir
+I:/Github/URI-Online-Judge-Solutions/Mathematics/P1161/cmake-build-debug/CMakeFiles/rebuild_cache.dir
