@@ -1,0 +1,3 @@
+I:/Github/URI-Online-Judge-Solutions/Strings/P1253/cmake-build-debug/CMakeFiles/P1253.dir
+I:/Github/URI-Online-Judge-Solutions/Strings/P1253/cmake-build-debug/CMakeFiles/edit_cache.dir
+I:/Github/URI-Online-Judge-Solutions/Strings/P1253/cmake-build-debug/CMakeFiles/rebuild_cache.dir
